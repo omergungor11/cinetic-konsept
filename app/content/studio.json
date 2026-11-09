@@ -1,0 +1,607 @@
+{
+  "aboutIntro": "BASED IN THE HEART OF GENEVA,\nCINETIC CREATIVES BRINGS TOGETHER TALENTS FROM AGENCY, CINEMA, AND TECHNOLOGY TO ACCOMPANY ITS CLIENTS FROM STRATEGY, CREATIVE DIRECTION, EXPERIENCE DESIGN, PRODUCTION, AND POST-PRODUCTION THROUGH A SEAMLESS FLOW.",
+  "aboutDescription": "Powered by an in-house collective of 25+ talents, a trusted international network of creatives,\nand a deep sense of co-creation, we deliver strategic clarity, cultural relevance,\nand craft excellence to those willing to make a difference.",
+  "aboutVideo": {
+    "kind": "video",
+    "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CINETIC-TEAM-V06_nomusic.mp4",
+    "poster": "",
+    "loop": true,
+    "auto": true,
+    "controls": true
+  },
+  "team": [
+    {
+      "name": [
+        "PASCAL",
+        "TEA"
+      ],
+      "role": "CEO",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-pascal-tea-1.jpg",
+      "href": "https://www.linkedin.com/in/pascaltea/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "ANI",
+        "RADONOVA"
+      ],
+      "role": "Business Director",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-ani-radonova-2.jpg",
+      "href": "https://www.linkedin.com/in/ani-radonova/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "DAMIEN",
+        "REAL"
+      ],
+      "role": "Executive Creative Director",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/10/cc-about-team-Damien-Real-3-1024x1024.jpg",
+      "href": "https://www.linkedin.com/in/damienreal/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "ANNE-CÉCILE",
+        "VALLENET"
+      ],
+      "role": "EXECUTIVE producer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Anne-Cecile-Vallenet-4.jpg",
+      "href": "https://www.linkedin.com/in/anne-c%C3%A9cile-vallenet-85460a5a/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "JEAN-CHARLES",
+        "WEBER"
+      ],
+      "role": "Post-Production Director",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Jean-Charles-Weber-7.jpg",
+      "href": "https://www.imdb.com/name/nm9353021/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/IMDB.png"
+    },
+    {
+      "name": [
+        "BENJAMIN",
+        "DUBUC"
+      ],
+      "role": "Post-Production Director",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Benjamin-Dubuc-5.jpg",
+      "href": "https://www.linkedin.com/in/benjamin-dubuc-94027439/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "THÉO",
+        "DONATAN­­TONIO"
+      ],
+      "role": "VFX Supervisor",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Theo-Donatantonio-6.jpg",
+      "href": "https://www.linkedin.com/in/th%C3%A9o-donatantonio-9160b7150/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "DELPHINE",
+        "GUERCHET"
+      ],
+      "role": "CFO",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Delphine-Guerchet-8.jpg",
+      "href": "https://www.linkedin.com/in/delphine-guerchet-1233b1197/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "MAXENCE",
+        "CIEKAWY"
+      ],
+      "role": "Sound Supervisor – Re-recording Mixer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Maxence-Ciekawy-9.jpg",
+      "href": "https://www.imdb.com/name/nm4069584/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/IMDB.png"
+    },
+    {
+      "name": [
+        "PASCAL",
+        "GIRARDIN"
+      ],
+      "role": "Producer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Pascal-Giradin-13.jpg",
+      "href": "https://www.linkedin.com/in/pascal-girardin-b1189313/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "FRANÇOIS",
+        "WOLF"
+      ],
+      "role": "Sound Designer – Re-recording Mixer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Francois-Wolf-12.jpg",
+      "href": "https://www.imdb.com/name/nm1201129/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/IMDB.png"
+    },
+    {
+      "name": [
+        "JEAN LOUP",
+        "BERNET"
+      ],
+      "role": "Composer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Jean-Loup-Bernet-15.jpg",
+      "href": "https://www.linkedin.com/in/jean-loup-bernet-b74260179/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "MARCELLINE",
+        "GAMMA"
+      ],
+      "role": "Post-Production Coordinator",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Marcelline-Gamma-10.jpg",
+      "href": "https://www.linkedin.com/in/marcelline-gamma-35321864/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "LAURIANE",
+        "FRULEUX"
+      ],
+      "role": "Producer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Lauriane-Fruleux-14.jpg",
+      "href": "https://www.linkedin.com/in/lauriane-fruleux-730a6a154/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "SEBASTIAN",
+        "BOUET"
+      ],
+      "role": "Editor",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Sebastian-Bouet-17.jpg",
+      "href": "https://www.linkedin.com/in/sebastianbouet/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "THÉO",
+        "DELARCHE"
+      ],
+      "role": "Editor",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Theo-Delarche-19.jpg",
+      "href": "https://www.linkedin.com/in/th%C3%A9o-delarche-396516b0/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "BÉRÉNICE",
+        "ROGAZY"
+      ],
+      "role": "Lead VFX",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Berenice-Rogazy-11.jpg",
+      "href": "https://www.linkedin.com/in/berenicerogazy/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "LUDOVIC",
+        "MERIAN"
+      ],
+      "role": "Lead TD",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Ludovic-Merian-21.jpg",
+      "href": "https://www.linkedin.com/in/merian-ludovic/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "VERA",
+        "FALKENBERG"
+      ],
+      "role": "VFX Artist",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Vera-Falkenberg-16.jpg",
+      "href": "https://www.linkedin.com/in/vera-falkenberg-386843176/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "ISABELLE",
+        "MATTEO"
+      ],
+      "role": "VFX Artist",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Isabelle-Matteo-18.jpg",
+      "href": "https://www.linkedin.com/in/isabelle-matteo-a3258461/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    },
+    {
+      "name": [
+        "TIM",
+        "THÉVOZ"
+      ],
+      "role": "VFX Artist",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Tim-Thevoz-20.jpg",
+      "href": "https://www.linkedin.com/in/tim-th%C3%A9voz-37870220b/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LINKEDIN-1.png"
+    }
+  ],
+  "principles": [
+    {
+      "title": "AUTHENTIC COMMITMENT",
+      "lines": [
+        "We take on projects we believe in. Passion, purpose, and impact guide everything we do."
+      ]
+    },
+    {
+      "title": "RELIABILITY & TRANSPARENCY",
+      "lines": [
+        "We define objectives, scope, budget, and timing upfront. From the first presentation you see the full picture, creative and production together, ensuring serenity and trust throughout the whole process."
+      ]
+    },
+    {
+      "title": "FLEXIBILITY\n& AGILITY",
+      "lines": [
+        "We plug in exactly where you need us, from full campaigns support (strategy to final delivery), to standalone creative, production or post-production."
+      ]
+    },
+    {
+      "title": "TAILOR-MADE\nTEAMS",
+      "lines": [
+        "We curate the right talents for their fit with your project’s DNA ensuring relevance and outstanding craft."
+      ]
+    },
+    {
+      "title": "CO-CREATION\nAT EVERY STEP",
+      "lines": [
+        "We shape every project together, from briefing to delivery. You collaborate directly with our experts at Downtown Studio, fostering collaboration, agility, and efficiency."
+      ]
+    },
+    {
+      "title": "PROXIMITY",
+      "lines": [
+        "We are in the heart of Geneva so we can truly understand your world and your needs, delivering relevant work powered by our expertise, blending local insight with global experience."
+      ]
+    }
+  ],
+  "advertisingServices": [
+    {
+      "title": "CLIENT\nPARTNERSHIP",
+      "lines": [
+        "+ Brief development",
+        "+ Budget & timeline supervision",
+        "+ Cross-team coordination",
+        "+ Ongoing client support"
+      ]
+    },
+    {
+      "title": "CREATIVE\nSTRATEGY",
+      "lines": [
+        "+ Creative strategy & direction",
+        "+ Communication & content strategy",
+        "+ 360° campaigns & comms plans",
+        "+ Brand activations",
+        "+ Partnerships & brand collaborations"
+      ]
+    },
+    {
+      "title": "BRAND IDENTITY\n& DESIGN",
+      "lines": [
+        "+ Brand positioning",
+        "+ Brand platform",
+        "+ Visual identity",
+        "+ Tone of voice",
+        "+ Brand architecture & naming"
+      ]
+    },
+    {
+      "title": "EXPERIENCE DESIGN\n& INNOVATION",
+      "lines": [
+        "+ Scenography",
+        "+ Immersive installations (VR, AR, spatial audio)",
+        "+ Experiential events",
+        "+ Interactive content",
+        "+ Stage design",
+        "+ Movie set design",
+        "+ Technical direction & deployment"
+      ]
+    },
+    {
+      "title": "PRODUCTION",
+      "lines": [
+        "+ Photos & videos",
+        "+ 2D/3D animation",
+        "+ Talent curation & casting",
+        "+ Set design, art direction, props, styling, HMC",
+        "+ Production management & logistics"
+      ]
+    },
+    {
+      "title": "POST\nPRODUCTION",
+      "lines": [
+        "+ Video editing",
+        "+ Color grading",
+        "+ VFX & CGI",
+        "+ Sound design",
+        "+ Original music composition",
+        "+ Voice-over recording & direction",
+        "+ Audio mix & mastering",
+        "+ Localization & multi-channel format versioning",
+        "+ AI Workflows"
+      ]
+    }
+  ],
+  "cinemaServices": [
+    {
+      "title": "CINEMA\nPOST PRODUCTION\nSUPERVISION",
+      "lines": [
+        "+ Define the overall film post-production strategy",
+        "+ Oversee the entire image, sound, VFX workflow",
+        "+ Coordinate internal teams and external vendors",
+        "+ Plan sand secure post-production timelines",
+        "+ Manage the budget and optimizes costs",
+        "+ Ensure compliance of cinema deliverables"
+      ]
+    },
+    {
+      "title": "CINEMA\nPOST PRODUCTION",
+      "lines": [
+        "+ Video editing",
+        "+ Sound editing & sound design",
+        "+ Foley",
+        "+ ADR / dialogue recording",
+        "+ Original music composition",
+        "+ Voice-over recording & direction",
+        "+ Audio mix & mastering",
+        "+ Color grading",
+        "+ VFX & CGI",
+        "+ Mastering"
+      ]
+    }
+  ],
+  "clients": [
+    "HUBLOT",
+    "JAEGER-LECOULTRE",
+    "UNITED NATIONS",
+    "PORTAIL DES NATIONS",
+    "MB&F",
+    "PATEK PHILIPPE",
+    "VACHERON CONSTANTIN",
+    "CHOPARD",
+    "GIRARD-PERREGAUX",
+    "EBEL",
+    "CONCORD",
+    "SARTORO",
+    "NESCENS",
+    "LA RESERVE",
+    "BONGENIE",
+    "PICTET",
+    "CAILLER",
+    "MEDICXI"
+  ],
+  "cinemaTeam": [
+    {
+      "name": [
+        "JEAN-CHARLES",
+        "WEBER"
+      ],
+      "role": "Post-Production Director",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Jean-Charles-Weber-7.jpg",
+      "href": "https://www.imdb.com/name/nm9353021/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/IMDB.png"
+    },
+    {
+      "name": [
+        "MAXENCE",
+        "CIEKAWY"
+      ],
+      "role": "Sound Supervisor – Re-recording Mixer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Maxence-Ciekawy-9.jpg",
+      "href": "https://www.imdb.com/name/nm4069584/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/IMDB.png"
+    },
+    {
+      "name": [
+        "FRANÇOIS",
+        "WOLF"
+      ],
+      "role": "Sound Designer – Re-recording Mixer",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/cc-about-team-Francois-Wolf-12.jpg",
+      "href": "https://www.imdb.com/name/nm1201129/",
+      "icon": "https://cinetic-creatives.com/wp-content/uploads/2026/06/IMDB.png"
+    }
+  ],
+  "cinemaMovies": [
+    {
+      "title": "GABIN",
+      "description": "Torn between family loyalty and his desire for freedom, Gabin follows a boy over ten years as he struggles to break free from his working class background in the countryside of northern France.",
+      "href": "https://www.imdb.com/fr/title/tt41829787/?ref_=fn_t_1",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/10/CC_CINEMA_POSTER_0021_GABIN-768x1152.jpg"
+    },
+    {
+      "title": "À BRAS-LE-CORPS",
+      "description": "A virtuous teen in 1943 Switzerland questions her village’s morality when they turn away French refugees. After a personal trauma upends her life, she must find the courage to forge her own path against social expectations.",
+      "href": "https://www.imdb.com/title/tt34973241/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0029_A-BRAS-LE-CORPS_1-768x1152.jpg"
+    },
+    {
+      "title": "LA BEAUTÉ DE L’ÂNE",
+      "description": "After her father’s 50-year exile, a filmmaker and her father return to Makermal, Kosovo, 25 years after a devastating war, to create a film combining his childhood memories with a quest for truth.",
+      "href": "https://www.imdb.com/title/tt28711818/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0016_LA-BEAUTE-DE-LANE_2-768x1152.jpg"
+    },
+    {
+      "title": "THE ARAB",
+      "description": "Haroun is an old man with an incredible secret.",
+      "href": "https://www.imdb.com/title/tt39230003/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0002_THE-ARAB_3-768x1152.jpg"
+    },
+    {
+      "title": "LAUNDRY",
+      "description": "In apartheid South Africa, a young man’s aspirations as a musician clash with preserving his family’s laundry business amid intensifying racial discrimination against Black entrepreneurs.",
+      "href": "https://www.imdb.com/title/tt34734557/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0011_LAUNDRY_4-768x1152.jpg"
+    },
+    {
+      "title": "PEAU À PEAU",
+      "description": "A young mother struggling with postpartum depression and insomnia becomes increasingly haunted by the traumatic death of her sister, spiraling deeper into psychological turmoil as she tries to care for her newborn.",
+      "href": "https://www.imdb.com/title/tt36140299/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0006_PEAU-A-PEAU_5-768x1152.jpg"
+    },
+    {
+      "title": "INTRAÇABLES",
+      "description": "7 years ago, Giulia lost her husband David in a tragic accident. One day, a stranger gets into her cab, reviving long forgotten memories. From then on, Giulia and her 17 years old son are forced to flee in an old car and put themselves in a state of “digital death”. They will soon find out that the truth lies in David’s past.",
+      "href": "https://www.imdb.com/title/tt36173963/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0019_INTRACABLES_6-768x1152.jpg"
+    },
+    {
+      "title": "LA CACHE",
+      "description": "The ten-year-old boy lived through the events of May 1968 hidden away at his grandparents’ house, surrounded by his uncles and great-grandmother, all bivouacked around a mysterious hideout. Adapted from the novel by Christophe Boltanski.",
+      "href": "https://www.imdb.com/title/tt31566788/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0015_LA-CACHE_7-768x1152.jpg"
+    },
+    {
+      "title": "ALLÉGORIE CITADINE",
+      "description": "In the Allegory of the Cave, Plato ponders: what would happen if one of the prisoners managed to free themselves from their chains and escape from the cave? What if that prisoner were Jay, a little 7-year-old boy?",
+      "href": "https://www.imdb.com/title/tt33029917/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0027_ALLEGORIE-CITADINE_8-768x1152.jpg"
+    },
+    {
+      "title": "DESIRE",
+      "description": "Feature documentary of Detroit techno legend Carl Craig.",
+      "href": "https://www.imdb.com/title/tt28633306/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0023_DESIRE_9-768x1152.jpg"
+    },
+    {
+      "title": "LE PROCÈS DU CHIEN",
+      "description": "Avril, a young lawyer specializing in animal defense, goes to great lengths to save her client, a repeat-offender dog, from capital punishment. This dog helps Avril accept her own human complexity.",
+      "href": "https://www.imdb.com/title/tt27198573/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0009_LE-PROCES-DU-CHIEN_10-768x1152.jpg"
+    },
+    {
+      "title": "SAUVE QUI PEUT",
+      "description": "AdvertisingCinemaExperience Design",
+      "href": "https://www.imdb.com/title/tt33014074/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0004_SAUVE-QUI-PEUT_11-768x1152.jpg"
+    },
+    {
+      "title": "SAY GOD BYE",
+      "description": "A young filmmaker’s journey unfolds as he’s inspired by Jean-Luc Godard at Lake Geneva. Driven by deep admiration, he finally meets his idol to express his gratitude and love with a simple “Thank you, JLG.”",
+      "href": "https://www.imdb.com/title/tt21371410/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0003_SAY-GOD-BYE_12-768x1152.jpg"
+    },
+    {
+      "title": "GLORIA !",
+      "description": "In 1800, at a girls’ school in Venice, isolated and supposedly mute domestic servant Teresa discovers the joy that music can bring, teaming up with a group of talented girls.",
+      "href": "https://www.imdb.com/title/tt26757264/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0021_GLORIA_13-768x1152.jpg"
+    },
+    {
+      "title": "WINTER PALACE",
+      "description": "In 1899, Andre Morel envisions a luxury hotel open all winter. He convinces Lord Fairfax to partner. Together they work to open the hotel, battling demanding guests, rebellious staff and harsh weather.",
+      "href": "https://www.imdb.com/title/tt28949537/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0000_WINTER-PALACE_14-768x1152.jpg"
+    },
+    {
+      "title": "CEUX QUI ROUGISSENT",
+      "description": "AdvertisingCinemaExperience Design",
+      "href": "https://www.imdb.com/title/tt33498460/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0024_CEUX-QUI-ROUGISSENT_15-768x1152.jpg"
+    },
+    {
+      "title": "RIVIÈRE",
+      "description": "Manon, a 17-year-old girl, departs the Swiss Alps in quest of her father, who has gone missing. She is determined to pursue her goal of becoming a professional hockey player as she makes new friends and falls in love for the first time.",
+      "href": "https://www.imdb.com/title/tt7578486/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0005_RIVIERE_16-768x1152.jpg"
+    },
+    {
+      "title": "O VENTO ASSOBIANDO NAS GRUAS",
+      "description": "Algarve, late 90s. Following the death of her grandmother, Milene – a strong young woman full of life despite a slight mental handicap – divides her life between her family of notables and a Cape Verdean family that keeps her going, whom she met when her grandmother died. The wind that whistles in the cranes plunges us into the world of two families against the backdrop of Portugal’s recent past.",
+      "href": "https://www.imdb.com/title/tt14565248/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0007_O-VENTO-ASSOBIANDO-NAS-GRUAS_17-768x1152.jpg"
+    },
+    {
+      "title": "LA CHIMÈRE",
+      "description": "Just out of jail, crumpled English archaeologist Arthur reconnects with his wayward crew of accomplices – a happy-go-lucky collective of grave-robbers who survive by looting Etruscan tombs and fencing the ancient treasures they dig up.",
+      "href": "https://www.imdb.com/title/tt14561712/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0014_LA-CHIMERE_18-768x1152.jpg"
+    },
+    {
+      "title": "LA DÉRIVE DES CONTINENTS",
+      "description": "Nathalie Adler is on a mission for the EU in Sicily. She organizes the next visit of Macron and Merkel to a migrant camp. Their presence has a high symbolic value to show that everything is under control. But who still wants to believe in this European family on the verge of a nervous breakdown? Probably not Albert, Nathalie’s son, an NGO activist who arrives without warning even though he has been estranged from her for years. Their reunion will be more explosive than this diplomatic trip.",
+      "href": "https://www.imdb.com/title/tt8923444/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0013_LA-DERIVE-DES-CONTINENTS_19-768x1152.jpg"
+    },
+    {
+      "title": "L’ÉTINCELLE",
+      "description": "Ten years ago, activists wanting to experience a collective way of life besieged a wooded countryside near Nantes in order to block the construction of a new airport. L’Étincelle paints an empathetic portrait of the environmentalists who raise questions about the future of the “Zone à défendre”, when their struggle leads to a first victory: the cancellation of the airport project.",
+      "href": "https://www.imdb.com/title/tt15455590/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0018_LETINCELLE_20-768x1152.jpg"
+    },
+    {
+      "title": "UNTIL BRANCHES BEND",
+      "description": "A feature-length psychological drama about a pregnant cannery worker who, after discovering what she believes to be an invasive insect in a peach, must convince her community that the danger it poses is very real.",
+      "href": "https://www.imdb.com/title/tt8971440/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0001_UNTIL-BRANCHES-BEND_21-768x1152.jpg"
+    },
+    {
+      "title": "HORS SAISON",
+      "description": "Mathieu lives in Paris, Alice in a small seaside town. They have a short affair, and then each one follows their own path. To wash his melancholy, Mathieu goes to a thalasso, where by chance he finds Alice.",
+      "href": "https://www.imdb.com/title/tt27704325/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0020_HORS-SAISON_22-768x1152.jpg"
+    },
+    {
+      "title": "ARIAFERMA",
+      "description": "The last remains of a prison, guards and a few inmates, are waiting to be transferred and gradually the rules seem to make less and less sense and the waiting men become a new fragile community.",
+      "href": "https://www.imdb.com/title/tt12744120/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0026_ARIAFERMA_23-768x1152.jpg"
+    },
+    {
+      "title": "A THOUSAND FIRES",
+      "description": "In the Magway region of Myanmar, a country home to one of the oldest petroleum industries in the world, live husband and wife Thein Shwe and Htwe Tin. Running an unregulated oil field, they produce a barrel every few days. They wish above all else to see their youngest son succeed, to break the cycle of poverty.",
+      "href": "https://www.imdb.com/title/tt14868480/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0028_A-THOUSAND-FIRES_24-768x1152.jpg"
+    },
+    {
+      "title": "BULLE",
+      "description": "BULLE, a small Swiss town. It is in this postcard landscape that the AUBERT family life explodes when they are brutally confronted with Alice’s disease, at 35 years old. A shock wave which bursts the bubble in which everyone has settled.",
+      "href": "https://www.imdb.com/title/tt10588634/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0025_BULLE_25-768x1152.jpg"
+    },
+    {
+      "title": "FAVOLACCE",
+      "description": "A few families living out on a limb in the suburbs of Rome. Tensions here can explode at any time; ultimately it’s the children who bring about the collapse.",
+      "href": "https://www.imdb.com/title/tt8526370/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0022_FAVOLACCE_26-768x1152.jpg"
+    },
+    {
+      "title": "LA MIF",
+      "description": "A group of teenage girls have been placed in a residential care home with social workers. This forced “family” experience creates unexpected tensions and intimacies. An incident triggers a chain of over-reactions.",
+      "href": "https://www.imdb.com/title/tt14077794/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0012_LA-MIF_27-768x1152.jpg"
+    },
+    {
+      "title": "L’OFRENA",
+      "description": "Jan, a mysterious character haunted by a deep feeling of guilt, tries to get Violeta back, a youth love he lost 20 years ago, with a sickening plan.",
+      "href": "https://www.imdb.com/title/tt7991758/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0017_LOFRENA_28-768x1152.jpg"
+    },
+    {
+      "title": "LAZZARO FELICE",
+      "description": "An unceasingly kind Italian peasant and his family are blatantly exploited by a tobacco baroness.",
+      "href": "https://www.imdb.com/title/tt6752992/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0010_LAZZARO-FELICE-_29-768x1152.jpg"
+    },
+    {
+      "title": "LE VENT TOURNE",
+      "description": "Pauline, a young farmer, raises her animals far from the modern world. When Samuel arrives to install a wind turbine on the farm, her values and her love for Alex are put to the test.",
+      "href": "https://www.imdb.com/title/tt7049420/",
+      "image": "https://cinetic-creatives.com/wp-content/uploads/2026/04/CC_CINEMA_POSTER_0008_LE-VENT-TOURNE_30-768x1152.jpg"
+    }
+  ],
+  "terms": [
+    "For the website (the “Website”) of Cinetic Creatives SA (hereinafter also referred to as “Cinetic”, “We,”, “Our”, or “Us”), a Swiss company limited by shares, CHE-242.339.132, with its registered office at rue des Vieux Grenadiers 10, 1205 Geneva, Switzerland.",
+    "1. INTRODUCTION\n1.1\nThese Terms of Use and Privacy Policy (the “Terms “) govern the use of information and services made available to the user (the “User” or “You”, the terms “Your” referring directly to the User) by Cinetic through this Website and other potential sites and applications operated by Cinetic. They apply to all uses that the User currently makes or will do in the future. Therefore, please read these Terms carefully.\n1.2\nCinetic makes the Website available to the User on the condition that the User accepts, without reservations, these Terms. By accessing this Site and the pages, services, information, tools and materials it contains, You acknowledge to accept and understand these Terms. If You do not agree to these Terms of Use, please do not continue to visit this Website.\n1.3\nThe information contained on the Website is selected and categorised for the sole purpose of informing the User about Cinetic’s services and business.\n1.4\nCinetic may amend these Terms, at any time and without notice, as well as all documents and information made available on the Website. The version published on this Website is the current version.",
+    "2. OWNERSHIP OF THE WEBSITE, TRADEMARK AND COPYRIGHT\n2.1\nCinetic, or any third party concerned, retains all rights, titles and interests (including copyrights, trademarks, patents and other intellectual property rights) over the information and contents (including texts, data, graphics and logos) of the Website. The pages of the Website may only be printed for personal or internal purposes, provided that these impressions retain all copyrights in force and all other notices relating to the ownership of the Website and the information it contains. It is forbidden for any User, in a non-exhaustive way, to modify, copy, transmit, display, distribute, reproduce, publish, exploit, create derivative works from, or use in any other way for commercial or public purposes these information, text, graphics, images, video clips, directories, databases obtained from this Website, in whole or in part, without the prior written permission of Cinetic.",
+    "3. NO GURANTEE\n3.1\nCinetic, or any third party concerned, retains all rights, titles and interests (including copyrights, trademarks, patents and other intellectual property rights) over the information and contents (including texts, data, graphics and logos) of the Website. The pages of the Website may only be printed for personal or internal purposes, provided that these impressions retain all copyrights in force and all other notices relating to the ownership of the Website and the information it contains. It is forbidden for any User, in a non-exhaustive way, to modify, copy, transmit, display, distribute, reproduce, publish, exploit, create derivative works from, or use in any other way for commercial or public purposes these information, text, graphics, images, video clips, directories, databases obtained from this Website, in whole or in part, without the prior written permission of Cinetic.",
+    "4. ABSENCE OF RESPONSABILITY\n4.1\nIn no event shall Cinetic be liable towards any User or any person for any direct or indirect loss, costs, claims, costs or damages of any nature whatsoever, whether contractual or tort, including negligence, resulting from the access to the Website, its use or the inability to access or use the Website, or any action taken or not on that basis, whether such damage is direct, indirect, special, incidental or consequential, even if Cinetic knew or had good reason to know the possibility of such damages or claims.\n4.2\nCinetic has no influence over the information that could be accessed through links on its own Website to third-party or external links and websites, and the same absence of responsibility stated in section 4.1 above shall apply to Cinetic for the contents of such external links or third-party websites.",
+    "5. DATA PROTECTION STATEMENT\n5.1\nWithin the scope of Our business activities, We collect and process personal data, in particular personal data concerning our clients, associated persons, counterparties, professional and other associations, visitors to Our Website, event participants, newsletter recipients, and other entities, or their respective contact persons and employees. “Personal data” is defined as all details and information relating to an identified or identifiable natural person. In this Data Protection Statement, We inform You about this data processing. In addition to this Data Protection Statement, We may inform You separately about the processing of Your data (e.g., in forms, or in other contractual terms). If You disclose data about other persons to Us (e.g., family members, employers\nor employees, representatives, counterparties, or other associated persons), We assume that You are authorised to do so and that this data is accurate, and that You have ensured that these persons have been informed about this disclosure, insofar as a legal duty to inform applies (e.g., by bringing this Data Protection Statement to their attention beforehand).\n5.2 For which purposes do We process User’s data?\nIf You use Our services, use Our Website, or otherwise interact with Us, We collect and process various categories of Your personal data (mainly surname, name, email, telephone number, address, country). In principle, We may collect and otherwise process this data for the following purposes, in particular:\nCommunication\n: We process personal data to enable Us to communicate with You via email, telephone, letter, or otherwise. This may take the form of newsletters and other regular contacts (electronic, by post, by telephone). You may refuse such communication at any time or refuse or withdraw consent to such communication. For this purpose, We primarily process the contents of the communication, mainly Your contact details. In the event of an audio or video recording, We will notify you separately, and You are free to inform Us if You do not wish a recording or to terminate the communication. Should We need or wish to establish Your identity (for the proper provision of Our services for instance), We collect additional data (e.g., a copy of an ID document).\nContract Initiation and Conclusion\n: With regard to the conclusion of a contract, such as a contract establishing a client relationship, with You or Your principal or employer – which also includes checking for potential conflicts of interest – We may in particular collect and otherwise process Your name, contact details, other personal details, authorisations, declarations of consent, contract contents, date of conclusion, and all other data that You provide to Us or that We collect from public sources or third parties (e.g., commercial registers, media, or the Internet).\nContract Management and Execution\n: We collect and process personal data so that We can comply with Our contractual obligations towards Our clients and other contractual partners (e.g., suppliers, service providers, project partners). For this purpose, We process, in particular, the data that We have received or collected during the initiation, conclusion, and execution of Our contract with Our clients, as well as data that We create in the course of Our contractual services or that We collect from You, public sources or from other third parties. This data may include conversation and consultation minutes, notes, internal and external correspondence, contract documents, documents that We create and receive during Our communications with You.\nOperation of our Website\n: To be able to operate Our Website securely and stably, We collect technical data, such as the IP address, details about the operating system and settings of Your device, the region, the time, and the type of use. We also use cookies and similar technologies. For further information, see section 5.7.\nImprovement of our Services and Digital Offerings\n: To continuously improve Our services and our digital offerings (e.g. Website), We collect data about Your behaviour and Your preferences, for example, by gathering feedback on Our services or analysing how You navigate through Our Website and how You interact with Our social media profiles.\nJob Applications\n: If You apply for a position with Us, We collect and process the corresponding data for the purpose of reviewing the application, conducting the application process, and, for successful applications, for the preparation and conclusion of a corresponding contract. In addition to Your contact details and the information from the corresponding communication, We process in particular the data contained in Your application documents and the data that We may additionally collect about You, for example, from professional social networks, the Internet, the media, and references, if You consent to Us obtaining references.\nFurther Purposes\n: Further purposes include, for example, training and educational purposes, as well as administrative purposes (e.g., accounting). We may listen to or record telephone or video conferences for training, and quality assurance purposes. In such cases, We will inform You separately (e.g., by a notice during the video conference concerned), and You are free to inform Us if You do not wish a recording, or to terminate the communication (if You only do not wish a recording of Your image, please turn off Your camera). Furthermore, We may process personal data for the organisation, execution, and follow-up of events, such as participant lists and contents of presentations and discussions, as well as image and audio recordings created during these events.\n5.3 Where does the data come from?\nPrimarily from You\n: The majority of the data We process is disclosed to Us by You (e.g. in connection with Our services, the use of Our Website or any other programs, or communication with Us). If You want to conclude contracts with Us or use Our services, for example, You must disclose certain data to Us. The use of Our Website is also not possible without data processing.\n5.4 To whom do We disclose Your data?\nIn connection with the purposes listed in section 5.2, We may transfer Your personal data in particular to the categories of recipients listed below.\nService Providers\n: We work with service providers and sub-contractors in Switzerland and abroad who process data (i) on Our behalf (e.g., IT providers), (ii) under joint responsibility with Us, or (iii) under their own responsibility, which they have received from Us or collected for Us. These service providers include, for example, IT providers, banks, insurers, or Our agents. We generally conclude contracts with these third parties regarding the use and protection of personal data. We also enable certain third parties, for example at Our events, to also collect personal data from You on their own responsibility (e.g., media photographers, speakers, etc.). Insofar as We are not crucially involved in these data collections, these third parties are solely responsible for them.\nAuthorities\n: We may pass on personal data to offices and other authorities in Switzerland and abroad if this is necessary for the fulfilment of Our contractual obligations, or if We are legally obliged or entitled to do so, or if this appears necessary to safeguard Our interests. These recipients process the data under their own responsibility.\n5.5 Is User’s personal data transferred abroad?\nWe process and store personal data mainly in Switzerland and the European Economic Area (EEA), but potentially in every country in the world, depending on the case – the scope of services and work We provide to Our clients. If a recipient is located in a country without an adequate level of data protection, We contractually oblige the recipient to comply with an adequate level of data protection (for this purpose, We use the revised standard contractual clauses of the European Commission, which can be viewed here: https://eurlex.europa.eu/eli/dec_impl/2021/914/oj? , including the necessary additions for Switzerland), unless they are already subject to a legally recognised framework for ensuring data protection. We may also disclose personal data to a country without an adequate level of data protection without concluding a separate contract for this purpose if We can rely on an exception clause. An exception may apply, in particular, in the case of overriding public interests or if the execution of a contract in Your interest requires such disclosure, if You have consented, or if obtaining Your consent within a reasonable period is not possible and the disclosure is necessary to protect Your interests.\n5.6 What are Your rights?\nYou have certain rights in connection with our data processing. You can, in particular, request information about the processing of Your personal data, have inaccurate personal data corrected, request the erasure of personal data, object to data processing, or request the provision of certain personal data in a standard electronic format or its transfer to other controllers. If You wish to exercise Your rights against Us, please contact Us by using Our contact details mentioned in section 6 below. Please note that these rights are subject to conditions, exceptions, or restrictions (e.g., to protect third parties or trade secrets). We reserve the right to black out copies or only provide extracts for reasons of data protection law or confidentiality.\n5.7 How are cookies, similar technologies, and social media plug-ins used on our Website and other digital services?\nWhen using Our Website (incl. newsletter and other digital offerings), data is generated and stored in logs (in particular technical data). In addition, We may use cookies and similar technologies (e.g., pixel tags or fingerprints) to recognise website visitors, evaluate their behaviour, and identify preferences. A cookie is a small file that is transmitted between the server and Your system and enables the recognition of a specific device or browser. You can set Your browser to automatically reject, accept, or delete cookies. You can also deactivate or delete cookies individually. You can find out how to manage cookies in Your browser in Your browser’s help menu. Neither the technical data collected by Us nor cookies generally contain personal data. However, personal data that We or third-party providers commissioned by Us store about You (e.g., if You have a user account with these providers) may be linked to the technical data or to the information stored in and obtained from cookies and thus potentially to You as a person. We also use social media plug ins, which are small software components that establish a connection between Your visit to Our Website and a third party provider. The social media plug-in informs the third party provider that You have visited Our Website and can transmit cookies to the third-party provider that the latter has previously placed on Your web browser. Further information on how these third-party providers use Your personal data collected via their social media plug-ins can be found in their respective data protection statements.\n5.8 How do We process personal data on our pages in social networks?\nWe operate pages and other online presences on social networks and other platforms operated by third parties and may process data about You in this context. We receive data from You (e.g., when You communicate with Us or comment on Our content) and from the platforms (e.g., statistics). The providers of the platforms can analyse Your use and process this data together with other data they have about You. They also process this data for their own purposes (e.g., marketing and market research purposes and for the administration of their platforms), and act as their own controllers for this purpose. Further information on the processing by the platform operators can be found in the data protection statements of the respective platforms. We currently use the following platform, whereby the identity and contact details of the platform operator are available in the data protection statement:\nLinkedIn\nlinkedin.com\nhttps://www.linkedin.com/legal/privacy-policy\nInstagram\nInstagram.com\nhttps://privacycenter.instagram.com/policy/ entry_point=ig_help_center_data_policy_redirect\nWe are entitled, but not obligated, to check third-party content before or after its publication on our online presences, to delete content without notice, and, if necessary, to report it to the provider of the platform concerned. Some of the platform operators may be located outside Switzerland.\n5.9 What else should be noted?\nWe assume that the EU General Data Protection Regulation (“\nGDPR\n”) is fundamentally not applicable in Our case. However, should this exceptionally be the case for certain data processing activities, then this section 5.9 shall apply in addition, exclusively for the purposes of the GDPR and the data processing subject to it.\nWe base the processing of Your personal data in particular on the fact that:\n+ it is necessary as described in section 5.2 for the\ninitiation and conclusion of contracts\nand their management and enforcement (Art. 6 (1) lit. b GDPR);\n+ it is necessary for the\nsafeguarding of legitimate interests\nof Us or third parties as described in section 5.2, namely for communication with You or third parties, to operate Our Website, for the improvement of Our services and Our digital offerings and registration for certain offers and services, for security purposes, for compliance with Swiss law and internal regulations, and for other purposes such as training and education, administration, organisation, execution and follow-up of events, and for safeguarding other legitimate interests (see section 5.2) (Art. 6 (1) lit. f GDPR);\n+ it is\nlegally required or permitted\nbased on Our mandate or Our position under the law of the EEA or a Member State (Art. 6 (1) lit. c GDPR) or is necessary to\nprotect Your vital interests\nor those of other natural persons (Art. 6 (1) lit. d GDPR);\n+ You have\nseparately consented\nto the processing (Art. 6 (1) lit. a, and Art. 9 (2) lit. a GDPR).\nWe point out that We generally process Your data for as long as Our processing purposes (cf. section 5.2), statutory retention periods, and Our legitimate interests, in particular for documentation and evidence purposes, require it, or storage is technically conditional (e.g., in the case of backups or document management systems). Unless legal or contractual obligations or technical reasons prevent it, We generally delete or anonymise Your data after the storage or processing period has expired within the scope of Our usual procedures and in accordance with Our retention policy. If You do not provide certain personal data, this may lead to the associated services not being provided or a contract not being concluded. We generally indicate where personal data requested by Us is mandatory or necessary. The right to object to the processing of Your data, as set out in section 5.6, applies in particular to data processing for the purpose of direct marketing. If You are not satisfied with how We handle Your rights or data protection, please let Us know (cf. contact details in section 6 below).",
+    "6. APPLICABLE LAW AND JURISDICTION\nThe present Terms are governed by Swiss law, without regard to the conflict of law rules thereof.\nAny dispute arising out of or in relation with the present Terms shall be submitted to the courts of Geneva, Switzerland.",
+    "7. CONTACT\nWithin the limits of the applicable legal provisions, all questions of the User relating to the processing of their data collected on the Website or relating to the use of the Website are to be addressed to Cinetic as follows:\nCinetic Creatives SA\nRue des Vieux-Grenadiers 10\n1205 Geneva\nSwitzerland\nor by email to :\nhello@cinetic-creatives.com\n© 2026 Cinetic Creatives SA. All rights reserved."
+  ]
+}

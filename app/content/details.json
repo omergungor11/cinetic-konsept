@@ -1,0 +1,2430 @@
+{
+  "concord-new-mariner": {
+    "title": "CONCORD – NEW MARINER",
+    "description": "To accompany the launch of the new Mariner Collection, Concord invites you on a journey to the heart of Lake Biel and its surrounding landscapes, where water, light and time come together.",
+    "image": "/media/posters/concord-new-mariner.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nSebastian Bouet\nDOP\nRomain Do",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film",
+        "more": false
+      }
+    ],
+    "summary": "The film captures a suspended moment, intimate and mysterious, where horizons shift and time seems to slow down. A subtle escape shaped by movement and contemplation, where every passing moment becomes a memory. Blending watchmaking precision, timeless elegance and a spirit of discovery, Concord offers a poetic expression of its Swiss identity. A story where time is no longer simply measured, but truly felt.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/25-00120_MGI_Concord_New_Mariner_DC.mov",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL9-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL8-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL7-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL6-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL5-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL3-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL4-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL2-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_MARINER_STILL1-1024x574.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "media",
+        "media": {
+          "kind": "image",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/CONCORD_NEW_MARINER_PHOTOS-1024x920.png"
+        }
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Producer",
+            "name": "Lauriane Fruleux\nPascal Girardin"
+          },
+          {
+            "role": "Art Director",
+            "name": "Maëlle Vuillet"
+          },
+          {
+            "role": "Director",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "DOP",
+            "name": "Romain Do"
+          },
+          {
+            "role": "1st AC",
+            "name": "Aurel Ganz"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Sylvain Lugrin"
+          },
+          {
+            "role": "Photographer",
+            "name": "Marc Ninghetto"
+          },
+          {
+            "role": "Photo Assistant",
+            "name": "Arnaud Poncet"
+          },
+          {
+            "role": "Set Design",
+            "name": "Tadamachine"
+          },
+          {
+            "role": "Stylist",
+            "name": "Melane"
+          },
+          {
+            "role": "MUAH",
+            "name": "Jeanne Julien"
+          },
+          {
+            "role": "Talents",
+            "name": "Emmanuelle\nJan"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Post Production Coordinator",
+            "name": "Marcelline Gamma"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "VFX artist",
+            "name": "Bérénice Rogazy\nVera Falkenberg\nIsabelle Matteo\nTim Thévoz"
+          },
+          {
+            "role": "Colorist",
+            "name": "Stephane Ma"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Sound Design & mix",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Product Photography",
+            "name": "Studio Currat"
+          },
+          {
+            "role": "Product Photography Editing",
+            "name": "Barbara Haemmig de Preux"
+          }
+        ]
+      }
+    ]
+  },
+  "ebel-1911-chronograph-ice-blue": {
+    "title": "EBEL – 1911 CHRONOGRAPH ICE BLUE",
+    "description": "A campaign for the Ebel 1911 Chronograph Ice Blue, built around contrasts, Ice-blue light. Amber shadows. An interchangeable bracelet. One chronograph, multiple expressions.",
+    "image": "/media/posters/ebel-1911-chronograph-ice-blue.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nMaxime Moulin\nDOP\nVincent Ricci\nPhotographer\nCharles-Élie Lathion",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film\nPhotography",
+        "more": false
+      }
+    ],
+    "summary": "Shot in studio, the campaign explores contrasts through light, shadow, and materials. A refined visual treatment combining macro details, cinematic compositions, and the versatility of the interchangeable bracelet system.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_SHORT_EBEL_CHRONO-ICE.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL_1911_CHRONOGRAPH_ICE_BLUE_STILLS_0011_Ebel_1_-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL_1911_CHRONOGRAPH_ICE_BLUE_STILLS_0010_Ebel_1-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL_1911_CHRONOGRAPH_ICE_BLUE_STILLS_0007_Ebel_3-1024x576.jpg"
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/Ebel_Freestudio_Loop_Clustr-Films_V1-0015_EBEL-Coumpound-17.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/Ebel_Freestudio_Loop_Clustr-Films_V1-0015_EBEL-Coumpound-17-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/Ebel_Freestudio_Loop_Clustr-Films_V1-0004_EBEL-Coumpound-4.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/Ebel_Freestudio_Loop_Clustr-Films_V1-0004_EBEL-Coumpound-4-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/Ebel_Freestudio_Loop_Clustr-Films_V1-0001_EBEL-Coumpound-1.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/Ebel_Freestudio_Loop_Clustr-Films_V1-0001_EBEL-Coumpound-1-300x168.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL_1911_CHRONOGRAPH_ICE_BLUE_STILLS_0009_Ebel_2_-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL_1911_CHRONOGRAPH_ICE_BLUE_STILLS_0006_Ebel_4-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL_1911_CHRONOGRAPH_ICE_BLUE_STILLS_0008_Ebel_2-1024x576.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Art Director",
+            "name": "Maëlle Vuillet"
+          },
+          {
+            "role": "Producer",
+            "name": "Lauriane Fruleux\nPascal Girardin"
+          },
+          {
+            "role": "Director",
+            "name": "Maxime Moulin"
+          },
+          {
+            "role": "DOP",
+            "name": "Vincent Ricci"
+          },
+          {
+            "role": "1st AC",
+            "name": "Nora Boissenot"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Sylvain Lugrin"
+          },
+          {
+            "role": "Best boy",
+            "name": "Quentin Schwarz"
+          },
+          {
+            "role": "Motion Control",
+            "name": "Altamont"
+          },
+          {
+            "role": "Lifestyle Photographer",
+            "name": "Charles-Élie Lathion"
+          },
+          {
+            "role": "Set Design",
+            "name": "Tadamachine"
+          },
+          {
+            "role": "Stylist",
+            "name": "Melane"
+          },
+          {
+            "role": "MUAH",
+            "name": "Daniela Isabella Valenzi"
+          },
+          {
+            "role": "Talent",
+            "name": "Vincent Petit"
+          },
+          {
+            "role": "Studio",
+            "name": "Altamont"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "VFX artist",
+            "name": "Bérénice Rogazy\nVera Falkenberg,\nIsabelle Matteo\nTim Thévoz"
+          },
+          {
+            "role": "Colorist",
+            "name": "Vincent Ricci"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Sound Design & mix",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Product Photography",
+            "name": "Studio Currat"
+          },
+          {
+            "role": "Product Photography Editing",
+            "name": "Barbara Haemmig de Preux"
+          }
+        ]
+      },
+      {
+        "kind": "related",
+        "items": [
+          {
+            "title": "EBEL – SPORT CLASSIC 115TH",
+            "description": "A film marking 115 years of Ebel, built around the Sport Classic. Shot in light-filled architectural interiors, it lets the maison’s signature wave bracelet move quietly through a world of timeless elegance.",
+            "href": "/ebel-sport-classic-115th/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0004_Capture-decran-2026-05-29-a-11.27.21-768x584.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_EBEL-Eudes_Damien_pxy.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "ebel-sport-classic-115th": {
+    "title": "EBEL – SPORT CLASSIC 115TH",
+    "description": "A film marking 115 years of Ebel, built around the Sport Classic. Shot in light-filled architectural interiors, it lets the maison’s signature wave bracelet move quietly through a world of timeless elegance.",
+    "image": "/media/posters/ebel-sport-classic-115th.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nLauréat Bakolli\nDOP\nFabio Tozzo",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film\nPhotography",
+        "more": false
+      }
+    ],
+    "summary": "115 years, one unmistakable line. Ebel calls itself the architect of time, so we placed the Sport Classic where it belongs: inside spaces of pure architecture and soft natural light. No reinvention, just an icon that has never needed to change.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_EBEL-Eudes_Damien.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0008_Calque-1-1024x779.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0006_Capture-decran-2026-05-29-a-11.26.34-1024x779.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0005_Capture-decran-2026-05-29-a-11.26.44-1024x779.jpg"
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP1.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP1-300x228.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP3.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP3-300x228.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP2.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP2-300x229.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0003_Capture-decran-2026-05-29-a-11.27.47-1024x779.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0004_Capture-decran-2026-05-29-a-11.27.21-1024x779.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0002_Capture-decran-2026-05-29-a-11.28.01-1024x779.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "media",
+        "media": {
+          "kind": "image",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL-Villa-Turque-1-scaled-1-1024x843.png"
+        }
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Creative Director",
+            "name": "Damien Real"
+          },
+          {
+            "role": "Art Director",
+            "name": "Maëlle Vuillet"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Anne-Cécile Vallenet"
+          },
+          {
+            "role": "Producer",
+            "name": "Lauriane Fruleux"
+          },
+          {
+            "role": "Business Director",
+            "name": "Ani Radonova"
+          },
+          {
+            "role": "Director",
+            "name": "Lauréat Bakolli"
+          },
+          {
+            "role": "DOP",
+            "name": "Fabio Tozzo"
+          },
+          {
+            "role": "1st AC",
+            "name": "Michael Schärer"
+          },
+          {
+            "role": "2nd AC",
+            "name": "Jan Schär"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Sylvain Lugrin"
+          },
+          {
+            "role": "Best boy",
+            "name": "Quentin Schwarz"
+          },
+          {
+            "role": "Photographer",
+            "name": "Lauréat Bakolli"
+          },
+          {
+            "role": "Digital Operator",
+            "name": "Loïc Hérin"
+          },
+          {
+            "role": "Set Design",
+            "name": "Tadamachine"
+          },
+          {
+            "role": "Stylist",
+            "name": "Melane"
+          },
+          {
+            "role": "MUAH",
+            "name": "Daniela Isabella Valenzi"
+          },
+          {
+            "role": "Talent",
+            "name": "Joy Van der Eecken"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Post Production Coordinator",
+            "name": "Marcelline Gamma"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "VFX supervisor",
+            "name": "Théo Donatantonio"
+          },
+          {
+            "role": "Lead VFX",
+            "name": "Bérénice Rogazy"
+          },
+          {
+            "role": "VFX artist",
+            "name": "Tim Thévoz\nMathilde Vejrich"
+          },
+          {
+            "role": "Colorist",
+            "name": "Eudes Quittelier"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Sound Design & mix",
+            "name": "Kitchen Studio"
+          },
+          {
+            "role": "Product Photography",
+            "name": "Studio Currat"
+          },
+          {
+            "role": "Product Photography Editing",
+            "name": "Barbara Haemmig de Preux"
+          },
+          {
+            "role": "",
+            "name": ""
+          }
+        ]
+      }
+    ]
+  },
+  "franck-muller-watchland": {
+    "title": "FRANCK MULLER – WATCHLAND",
+    "description": "A craft film set inside Watchland, Franck Muller’s lakeside estate where every watchmaking métier lives under one roof. We followed a piece from first sketch to final stone, letting the place and its hands tell the story.",
+    "image": "/media/posters/franck-muller-watchland.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nNabil Senhaji\nDOP\nDavid Montcher",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film",
+        "more": false
+      }
+    ],
+    "summary": "Most maisons scatter their craft across the valley. Franck Muller brought it all to Watchland, one estate above Lake Geneva where design, watchmaking and gem-setting meet. We filmed that convergence the way it deserves, human hands, warm light, and the patience every complication demands.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/FRANCK-MULLER-Watchland-DC_1.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/FM1-scaled-1-1024x769.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/FM2-scaled-1-1024x769.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/FM4-scaled-1-1024x769.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/FM3-scaled-1-1024x769.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/FM5-scaled-1-1024x769.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/FM6-scaled-1-1024x769.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Creative Director",
+            "name": "Damien Real"
+          },
+          {
+            "role": "Art Director",
+            "name": "Léo Felder"
+          },
+          {
+            "role": "Scriptwriter",
+            "name": "Pablo Martín Torrado"
+          },
+          {
+            "role": "Producer",
+            "name": "Pascal Girardin"
+          },
+          {
+            "role": "Line Producer",
+            "name": "Ambre Bratschi"
+          },
+          {
+            "role": "Director",
+            "name": "Nabil Senhaji"
+          },
+          {
+            "role": "DOP",
+            "name": "David Montcher"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Sylvain Lugrin"
+          },
+          {
+            "role": "Stylist",
+            "name": "Melane"
+          },
+          {
+            "role": "Talent",
+            "name": "Antonin Schopfer"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "Colorist",
+            "name": "Boris Rabusseau"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Sound Design",
+            "name": "Rémi Mencucci"
+          }
+        ]
+      },
+      {
+        "kind": "related",
+        "items": [
+          {
+            "title": "MB&F – HM11",
+            "description": "A film for the HM11 Architect, MB&F’s house for the wrist. We set it down in a vast desert and shot it like a building, not a watch, playing on scale until the machine becomes a world of its own.",
+            "href": "/mbf-hm11/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/MBF_HM11_STILLS_0007_STILL_0003-768x432.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_MBF_2013_1m09s_1080p25_pxy.mp4"
+          },
+          {
+            "title": "NESCENS x LA RESERVE",
+            "description": "Where advanced science meets the art of hospitality. The campaign presents the Nescens Better-Aging programmes at La Réserve Genève, combining medical expertise, innovative treatments and a deeply personal approach to wConceptell-being.",
+            "href": "/nescens-x-la-reserve/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL6-768x430.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS-LARESERVE-web_pxy.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "jaeger-lecoultre-holiday-reverso-23": {
+    "title": "JAEGER-LECOULTRE – HOLIDAYS REVERSO 23",
+    "description": "Inspired by three floral creations imagined by Brendi Wedinger and rooted in the landscapes of the Vallée de Joux, the campaign brings together product, craftsmanship and worn moments within one continuous visual language.",
+    "image": "/media/posters/jaeger-lecoultre-holiday-reverso-23.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nGuillaume Allantaz\nDOP\nJonathan Grimault\nPhotographer\nJérémy Josselin",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film\nPhotography",
+        "more": false
+      }
+    ],
+    "summary": "From silhouettes to watchmaking gestures and product details, every scene is shaped by the colors, textures and atmosphere of the flowers. Using virtual production, reflective surfaces and controlled backlighting, the film creates an abstract and constantly evolving environment where light becomes a transition between worlds. A motion control system allows the camera to move seamlessly from the human gesture to the smallest details of the watch, creating a precise and fluid visual language that connects nature, craftsmanship and the Maison’s creations.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_JAEGER-LECOULTRE_Holidays-campaign.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_HOLIDAYS_REVERSO_23_TILLS_0011_STILL_4-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_HOLIDAYS_REVERSO_23_TILLS_0000_STILL_15-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_HOLIDAYS_REVERSO_23_TILLS_0010_STILL_5-1024x576.jpg"
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/e46169aa-d694f6c0.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/e46169aa-d694f6c0-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/0ea1fb7b-49769d7d.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/0ea1fb7b-49769d7d-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/a21409b8-6717fa91.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/a21409b8-6717fa91-300x168.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_HOLIDAYS_REVERSO_23_TILLS_0012_STILL_3-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_HOLIDAYS_REVERSO_23_TILLS_0004_STILL_11-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_HOLIDAYS_REVERSO_23_TILLS_0001_STILL_14-1024x576.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Art Director",
+            "name": "Valentine Gérard\n(Jaeger-LeCoultre)"
+          },
+          {
+            "role": "Project Leader",
+            "name": "Emma Bizette\n(Jaeger-LeCoultre)"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Anne-Cécile Vallenet"
+          },
+          {
+            "role": "Director",
+            "name": "Guillaume Allantaz"
+          },
+          {
+            "role": "DOP",
+            "name": "Jonathan Grimault"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "Shoot in Paris",
+            "name": ""
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "1st AC",
+            "name": "Carla Angers"
+          },
+          {
+            "role": "DIT",
+            "name": "Adrien Lescure"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Cédric Zak"
+          },
+          {
+            "role": "Best Boy",
+            "name": "Aurélien Landreau"
+          },
+          {
+            "role": "Motion Control",
+            "name": "Cinemotion Robotics"
+          },
+          {
+            "role": "LED Screen",
+            "name": "Street Communication & Patrick Morris"
+          },
+          {
+            "role": "Set Design",
+            "name": "Tadamachine"
+          },
+          {
+            "role": "Stylist",
+            "name": "Dabby Naval"
+          },
+          {
+            "role": "MUA",
+            "name": "Elise Ducrot"
+          },
+          {
+            "role": "Studio",
+            "name": "Studio SETS"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "Shoot in Switzerland",
+            "name": ""
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "1st AC",
+            "name": "Aurel Ganz"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Romain Schär"
+          },
+          {
+            "role": "Motion Control",
+            "name": "The Artaban Filmance"
+          },
+          {
+            "role": "Set Design",
+            "name": "Alisha Henry Studio"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "VFX artist",
+            "name": "Jean-Pascal Gaiffas\nBérénice Rogazy\nIsabelle Matteo\nVera Falkenberg\nMathilde Vejrich"
+          },
+          {
+            "role": "Colorist",
+            "name": "Sébastien Baudemont\nBoris Rabusseau"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Photographer Lifestyle",
+            "name": "Jérémy Josselin"
+          },
+          {
+            "role": "Product Photography & SF",
+            "name": "Serge Concierge"
+          },
+          {
+            "role": "Product Photographer & SF",
+            "name": "The Artaban Filmance"
+          }
+        ]
+      },
+      {
+        "kind": "related",
+        "items": [
+          {
+            "title": "JAEGER-LECOULTRE – WW 26",
+            "description": "For Watches & Wonders 2026, the campaign reimagines the Vallée de Joux as a dreamlike stage, creating a visual world where landscape, movement and watchmaking come together through unexpected perspectives.",
+            "href": "/jaeger-lecoultre-ww-26/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0005_1-768x432.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_JL-WW26-QP.mp4"
+          },
+          {
+            "title": "VACHERON CONSTANTIN – PATRIMONY 22",
+            "description": "A film for the Patrimony, Vacheron Constantin’s purest expression of restraint. Soft light, slow movement, and nothing more than line and proportion, exactly the way the collection has always been designed.",
+            "href": "/vacheron-constantin-patrimony-22/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/9-768x430.png",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_VC_patrimony_2022_30s_1080p25_pxy.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "jaeger-lecoultre-ww-26": {
+    "title": "JAEGER-LECOULTRE – W&W 26",
+    "description": "For Watches & Wonders 2026, the campaign reimagines the Vallée de Joux as a dreamlike stage, creating a visual world where landscape, movement and watchmaking come together through unexpected perspectives.",
+    "image": "/media/posters/jaeger-lecoultre-ww-26.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director &\nPhotographer\nGuillaume Allantaz\nDOP\nJulien Bourdeille",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film\nPhotography",
+        "more": false
+      }
+    ],
+    "summary": "Entirely built in studio, the set offers an abstract interpretation of Jaeger LeCoultre’s birthplace. A circular scenography, sculptural rocks and atmospheric layers create depth while giving the camera complete freedom to move around the talent and the watch. Through ambitious camera movements and unusual points of view, the film shifts seamlessly between the body, the environment and the smallest product details. The result is an immersive and theatrical visual language, turning the Vallée de Joux into a contemporary expression of the Maison’s universe.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_JL-WW26-QP.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0006_1-2-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0001_4-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0002_4-1024x576.jpg"
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/2.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/2-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JL-WW26-QP_LOOP1-1.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JL-WW26-QP_LOOP1-1-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/2-2.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/2-2-300x168.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0000_5-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0004_3-2-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0005_1-1024x576.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "media",
+        "media": {
+          "kind": "image",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JAEGER_Shoot_WW26-1024x884.png"
+        }
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Art Director",
+            "name": "Cedric Zangrilli\n(Jaeger-LeCoultre)"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Anne-Cécile Vallenet"
+          },
+          {
+            "role": "Director",
+            "name": "Guillaume Allantaz"
+          },
+          {
+            "role": "DOP",
+            "name": "Julien Bourdeille"
+          },
+          {
+            "role": "1st AC",
+            "name": "Rhony Sutriesno"
+          },
+          {
+            "role": "2nd AC",
+            "name": "Arnaud Portalier"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Romain Schär"
+          },
+          {
+            "role": "Best boy & Grip",
+            "name": "Davy Meunier"
+          },
+          {
+            "role": "Motion Control",
+            "name": "Mocoloco"
+          },
+          {
+            "role": "Photographer",
+            "name": "Guillaume Allantaz"
+          },
+          {
+            "role": "Photo Assistant",
+            "name": "Loïc Hérin"
+          },
+          {
+            "role": "Set Design",
+            "name": "Tadamachine"
+          },
+          {
+            "role": "Stylist",
+            "name": "Melane"
+          },
+          {
+            "role": "MUAH",
+            "name": "Daniela Isabella Valenzi"
+          },
+          {
+            "role": "Talents",
+            "name": "Theo\nJoffrey"
+          },
+          {
+            "role": "Studio",
+            "name": "Studio Images Genève"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Post Production Coordinator",
+            "name": "Marcelline Gamma"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "Colorist",
+            "name": "Stéphane Ma"
+          },
+          {
+            "role": "VFX supervisor",
+            "name": "Theo Donatantonio"
+          },
+          {
+            "role": "Lead VFX",
+            "name": "Bérénice Rogazy"
+          },
+          {
+            "role": "VFX artist",
+            "name": "Vera Falkenberg\nIsabelle Matteo\nTim Thévoz\nImane Domon\nMathilde Vejrich"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Product Shooting & craftmanship",
+            "name": "The Artaban Filmance"
+          },
+          {
+            "role": "Post Production Facilities",
+            "name": "Downtown Studio"
+          }
+        ]
+      }
+    ]
+  },
+  "mbf-hm11": {
+    "title": "MB&F – HM11",
+    "description": "A film for the HM11 Architect, MB&F’s house for the wrist. We set it down in a vast desert and shot it like a building, not a watch, playing on scale until the machine becomes a world of its own.",
+    "image": "/media/posters/mbf-hm11.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nOnur Senturk",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film",
+        "more": false
+      }
+    ],
+    "summary": "We built the HM11 film as architecture and science fiction, both at once: a structure on the horizon, a lone figure for scale, and a rotating case that turns the whole house on its foundations. We set it down playing on scale until the machine becomes a world of its own.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_MBF_2013_1m09s_1080p25.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/MBF_HM11_STILLS_0002_STILL_0008-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/MBF_HM11_STILLS_0006_STILL_0004-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/MBF_HM11_STILLS_0008_STILL_0002-1024x576.jpg"
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP1HM11.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP1HM11-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP2HM11.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP2HM11-300x169.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP3HM11.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/06/LOOP3HM11-300x168.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/MBF_HM11_STILLS_0001_STILL_0009-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/MBF_HM11_STILLS_0007_STILL_0003-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/MBF_HM11_STILLS_0003_STILL_0007-1024x576.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Project Leader",
+            "name": "Talya Elissa Lakin\n(MB&F)"
+          },
+          {
+            "role": "Art Director",
+            "name": "Suleyman Yazki"
+          },
+          {
+            "role": "Producer",
+            "name": "Pascal Girardin"
+          },
+          {
+            "role": "Director",
+            "name": "Onur Senturk"
+          },
+          {
+            "role": "Post Production EP",
+            "name": "Aynur Kazaz"
+          },
+          {
+            "role": "3D artists",
+            "name": "Korcan Atalay\nMurat Tahan\nMehmet Demiray\nHüseyin Çay\nMehmet Akif Karaman\nVera Falkenberg\nJean-Pascal Gaiffas"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Sound Design",
+            "name": "Maxence Ciekawy"
+          }
+        ]
+      },
+      {
+        "kind": "related",
+        "items": [
+          {
+            "title": "FRANCK MULLER – WATCHLAND",
+            "description": "A craft film set inside Watchland, Franck Muller’s lakeside estate where every watchmaking métier lives under one roof. We followed a piece from first sketch to final stone, letting the place and its hands tell the story.",
+            "href": "/franck-muller-watchland/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/09/FM8-scaled-1-768x577.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_fm_watchland_2021_2m40_1080p25.mp4"
+          },
+          {
+            "title": "JAEGER-LECOULTRE – WW 26",
+            "description": "For Watches & Wonders 2026, the campaign reimagines the Vallée de Joux as a dreamlike stage, creating a visual world where landscape, movement and watchmaking come together through unexpected perspectives.",
+            "href": "/jaeger-lecoultre-ww-26/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/JLC_WW_26_STILLS_0005_1-768x432.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_JL-WW26-QP.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "medicxi-seeker": {
+    "title": "MEDICXI – SEEKER",
+    "description": "Behind every medical breakthrough lies a long journey of conviction, resilience and collaboration. Seeker reveals the human reality of biotech innovation and the determination required to transform scientific ambition into life-changing treatments.",
+    "image": "/media/posters/medicxi-seeker.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nAdrien Wagner\nECD\nDamien Real\nScriptwriter\nSebastiaan Vermeul\nDOP\nLudovic Zuili",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film\nBTS",
+        "more": false
+      }
+    ],
+    "summary": "Developed through a close creative collaboration between Damien Real, Adrien Wagner and Sebastiaan Vermeul, the film combines cinematic storytelling with the authenticity of real scientific journeys. Moving between intimate human moments, research environments and visual metaphors, the campaign captures the uncertainty, setbacks and perseverance behind every breakthrough while revealing Medicxi’s long-term commitment to scientists and their vision.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/Medicxi-2K-Flat-h264-24-Ips-1886-Stereo-3.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/MEDICXI_COMPOUND_STILL1-1024x554.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/MEDICXI_COMPOUND_STILL5-1024x554.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/MEDICXI_COMPOUND_STILL7-1024x554.jpg"
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/ezgif-626b7b7f3f135055.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/09/ezgif-626b7b7f3f135055-300x162.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/ezgif-650349a3dfc24a9d.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/09/ezgif-650349a3dfc24a9d-300x162.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "video",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/ezgif-615e0020eed4774b.mp4",
+            "poster": "https://cinetic-creatives.com/wp-content/uploads/2026/09/ezgif-615e0020eed4774b-300x162.gif",
+            "loop": true,
+            "auto": true,
+            "controls": false
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/MEDICXI_COMPOUND_STILL3-1024x554.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/MEDICXI_COMPOUND_STILL2-1024x554.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/MEDICXI_COMPOUND_STILL8-1024x554.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "text",
+        "lines": [
+          "The Behind the Scenes reveals the scale of the production and the collective effort behind the film. From creative development to production and post production, a large team of collaborators brought together their expertise across direction, cinematography, art direction, production, VFX, sound and finishing. It offers a glimpse into the ambition of the project and the many talents required to bring Medicxi’s story to life."
+        ]
+      },
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/BTS-MEDICXI-V3-4k-PRORES-442-HQ.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "CINETIC CREATIVES",
+            "name": ""
+          },
+          {
+            "role": "Business Director",
+            "name": "Ani Radonova"
+          },
+          {
+            "role": "Executive Creative Director",
+            "name": "Damien Real"
+          },
+          {
+            "role": "Executive Production Director",
+            "name": "Anne-Cécile Vallenet"
+          },
+          {
+            "role": "Producer",
+            "name": "Maxime Bouyer"
+          },
+          {
+            "role": "Scriptwriter & Creative",
+            "name": "Sebastiaan Vermeul"
+          },
+          {
+            "role": "Production Consultant",
+            "name": "Delphine Bellonnet"
+          },
+          {
+            "role": "Production Coordinator",
+            "name": "Inès Diaz"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "Director",
+            "name": "Adrien Wagner"
+          },
+          {
+            "role": "1st AD",
+            "name": "Dilia Brito"
+          },
+          {
+            "role": "2nd AD",
+            "name": "Paulo Dinis"
+          },
+          {
+            "role": "Script Supervisor",
+            "name": "Ruben Gonçalves"
+          },
+          {
+            "role": "DOP",
+            "name": "Ludovic Zuili"
+          },
+          {
+            "role": "Focus puller",
+            "name": "Inês Gonçalo"
+          },
+          {
+            "role": "2nd AC",
+            "name": "Alexandre Monteiro"
+          },
+          {
+            "role": "Video assist",
+            "name": "Ana Specht"
+          },
+          {
+            "role": "Steadicam",
+            "name": "Manu Garcia"
+          },
+          {
+            "role": "Data Wrangler + Proxis",
+            "name": "Inês Pestana"
+          },
+          {
+            "role": "Behind the scenes content",
+            "name": "Vasco Soares"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "MARIA & MAYER – PORTUGAL",
+            "name": "Local production"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Maria João Mayer"
+          },
+          {
+            "role": "Accountant",
+            "name": "Laura Salgado"
+          },
+          {
+            "role": "Producer / Line Producer",
+            "name": "Julie Van den Bulck"
+          },
+          {
+            "role": "Production Coordinator",
+            "name": "Maria Mota"
+          },
+          {
+            "role": "Location Manager",
+            "name": "João Costa"
+          },
+          {
+            "role": "Location Manager Assistant",
+            "name": "João Barata\nBruno Leite\nPedro Jacob"
+          },
+          {
+            "role": "Van Drivers",
+            "name": "António Barros\nDiana Viegas\nFilipe Simões"
+          },
+          {
+            "role": "Production Unit Van",
+            "name": "Hugo Granjo"
+          },
+          {
+            "role": "Art director",
+            "name": "Paulo Oliveira"
+          },
+          {
+            "role": "Props Master",
+            "name": "Barbara Neto"
+          },
+          {
+            "role": "Standby Props",
+            "name": "JP Cotrim"
+          },
+          {
+            "role": "Art Assistant",
+            "name": "André Barreto\nGenny Neto\nMariana Frias\nCatarina Routier\nCátia Cardoso\nBeatriz Oliveira"
+          },
+          {
+            "role": "Handyman",
+            "name": "Ivo Fartura"
+          },
+          {
+            "role": "Stylist",
+            "name": "Joanne Gatefield"
+          },
+          {
+            "role": "Stylist Assistant",
+            "name": "Paulo Bruno\nSilvia Sotta"
+          },
+          {
+            "role": "Make Up Artist",
+            "name": "Gui Gamito"
+          },
+          {
+            "role": "Make Up Assistant",
+            "name": "Ana Rita Antunes"
+          },
+          {
+            "role": "Make Up",
+            "name": "Andreia Guimarães"
+          },
+          {
+            "role": "Hair Artist",
+            "name": "Jordan Alves"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Gonçalo Raposo"
+          },
+          {
+            "role": "Best Boy",
+            "name": "André Inocêncio"
+          },
+          {
+            "role": "Spark",
+            "name": "Nuno Cunha\nPaulo Almeida\nLuis Carneiro"
+          },
+          {
+            "role": "Genny Operator",
+            "name": "Ivan Antonyuk"
+          },
+          {
+            "role": "Key Grip",
+            "name": "Luciano Manso"
+          },
+          {
+            "role": "Grip",
+            "name": "Marco Duarte\nArmando Chouriço\nDaniel Jerónimo"
+          },
+          {
+            "role": "Sound Director",
+            "name": "Catarina Silva"
+          },
+          {
+            "role": "Boom Operator",
+            "name": "Daniel Peneirol"
+          },
+          {
+            "role": "Drone",
+            "name": "Manuel Costa"
+          },
+          {
+            "role": "Picture Cars",
+            "name": "GC Sports"
+          },
+          {
+            "role": "Precision Driver",
+            "name": "Gonçalo Carlos"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "Casting Director France",
+            "name": "Rachel Desmarest"
+          },
+          {
+            "role": "Casting Director Portugal",
+            "name": "Quick Casting"
+          },
+          {
+            "role": "Extras – Estoril Models",
+            "name": "Fabi Avelar"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "CASTING",
+            "name": ""
+          },
+          {
+            "role": "Zara",
+            "name": "Claire Olivier"
+          },
+          {
+            "role": "Eric",
+            "name": "Santiago André"
+          },
+          {
+            "role": "Oscar",
+            "name": "Daniel Lundh"
+          },
+          {
+            "role": "Claire",
+            "name": "Murielle Huet des Aunay"
+          },
+          {
+            "role": "Benoit",
+            "name": "Rodrigo Fortuna"
+          },
+          {
+            "role": "Pitch investor",
+            "name": "Jacob de Graaf"
+          },
+          {
+            "role": "Suit",
+            "name": "Jorge Albuquerque"
+          },
+          {
+            "role": "Older scientist",
+            "name": "Jorge Pinto"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "SHOOTING GENEVA",
+            "name": ""
+          },
+          {
+            "role": "Producer",
+            "name": "Pascal Girardin"
+          },
+          {
+            "role": "Director",
+            "name": "Adrien Wagner"
+          },
+          {
+            "role": "DOP",
+            "name": "Joseph Areddy"
+          },
+          {
+            "role": "HMC",
+            "name": "Daniela Isabella Valenzi"
+          },
+          {
+            "role": "Sound Operator",
+            "name": "Allan Mantilleri"
+          },
+          {
+            "role": "1st AC",
+            "name": "Maxime Raymond"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Solveig Carnajac"
+          },
+          {
+            "role": "Prompt Operator",
+            "name": "Nora Coeytaux"
+          },
+          {
+            "role": "Talent",
+            "name": "Jeremy Levin"
+          },
+          {
+            "role": "",
+            "name": ""
+          },
+          {
+            "role": "POST PRODUCTION",
+            "name": "Cinetic Creatives"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Jean-Charles Weber"
+          },
+          {
+            "role": "Post Production Coordinator",
+            "name": "Marcelline Gamma"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet\nThéo Delarche"
+          },
+          {
+            "role": "VFX Supervisor",
+            "name": "Théo Donatantonio"
+          },
+          {
+            "role": "Lead VFX",
+            "name": "Bérénice Rogazy"
+          },
+          {
+            "role": "Lead TD",
+            "name": "Ludovic Merian"
+          },
+          {
+            "role": "VFX Artist",
+            "name": "Isabelle Matteo\nTim Thevoz\nVera Falkenberg"
+          },
+          {
+            "role": "Visual Artist",
+            "name": "Bibarr"
+          },
+          {
+            "role": "Sound Designer – Re-recording Mixer",
+            "name": "François Wolf\nYatoni Roy Cantu"
+          },
+          {
+            "role": "Original score",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Foley – Soundtroop",
+            "name": "Miguel Barbosa\nDiego Staub"
+          },
+          {
+            "role": "Color grading",
+            "name": "Marine Surblé"
+          },
+          {
+            "role": "Post-production Facilities",
+            "name": "Downtown Studio – Geneva"
+          }
+        ]
+      }
+    ]
+  },
+  "nescens-x-la-reserve": {
+    "title": "NESCENS x LA RESERVE",
+    "description": "Where advanced science meets the art of hospitality. The campaign presents the Nescens Better-Aging programmes at La Réserve Genève, combining medical expertise, innovative treatments and a deeply personal approach to wConceptell-being.",
+    "image": "/media/posters/nescens-x-la-reserve.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Directors\nDamien Real\nJulien Bourdeille\nDOP\nJulien Bourdeille",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film\nPhotography",
+        "more": false
+      }
+    ],
+    "summary": "Set within the peaceful surroundings of La Réserve Genève, the film creates a dialogue between recovery and performance. Lifestyle moments are interwoven with advanced protocols, from diagnostics and neuro-mapping to cryotherapy and hyperbaric treatments. Through a refined and sensory visual language, the campaign reveals a holistic experience designed to improve vitality, resilience and long-term health.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS-LARESERVE-web.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL4-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL10-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL8-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL2-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL3-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL9-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL5-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL1-1024x574.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/09/NESCENS_LARESERVE_STILL7-1024x574.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Executive Creative Director",
+            "name": "Damien Real"
+          },
+          {
+            "role": "Executive Producer",
+            "name": "Anne-Cécile Vallenet"
+          },
+          {
+            "role": "Producer",
+            "name": "Lauriane Fruleux"
+          },
+          {
+            "role": "Business Director",
+            "name": "Ani Radonova"
+          },
+          {
+            "role": "Directors",
+            "name": "Damien Real\nJulien Bourdeille"
+          },
+          {
+            "role": "DOP",
+            "name": "Julien Bourdeille"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Sylvain Lugrin"
+          },
+          {
+            "role": "Photographer",
+            "name": "Nicolas Schopfer"
+          },
+          {
+            "role": "Photo assistant",
+            "name": "Vincent Albert"
+          },
+          {
+            "role": "Stylist",
+            "name": "Melane"
+          },
+          {
+            "role": "MUAH",
+            "name": "Daniela Isabella Valenzi"
+          },
+          {
+            "role": "Talents",
+            "name": "Marta\nFabrizio"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Post production Coordinator",
+            "name": "Marcelline Gamma"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "Colorist",
+            "name": "Rémy De Vlieger"
+          },
+          {
+            "role": "VFX Supervisor",
+            "name": "Theo Donatantonio"
+          },
+          {
+            "role": "Lead VFX",
+            "name": "Bérénice Rogazy"
+          }
+        ]
+      },
+      {
+        "kind": "related",
+        "items": [
+          {
+            "title": "EBEL – SPORT CLASSIC 115TH",
+            "description": "A film marking 115 years of Ebel, built around the Sport Classic. Shot in light-filled architectural interiors, it lets the maison’s signature wave bracelet move quietly through a world of timeless elegance.",
+            "href": "/ebel-sport-classic-115th/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0004_Capture-decran-2026-05-29-a-11.27.21-768x584.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_EBEL-Eudes_Damien_pxy.mp4"
+          },
+          {
+            "title": "EBEL – 1911 CHRONOGRAPH ICE BLUE",
+            "description": "A film for the 1911 Chronograph Ice Blue, built entirely on one contrast: cool against warm. Ice-blue light, amber shadow, and a dial that lives right on that line.",
+            "href": "/ebel-1911-chronograph-ice-blue/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/EBEL_1911_CHRONOGRAPH_ICE_BLUE_STILLS_0006_Ebel_4-768x432.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_SHORT_EBEL_CHRONO-ICE_pxy.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "sartoro-winter": {
+    "title": "SARTORO – WINTER",
+    "description": "A winter campaign shaped as a series of distinct visual moments. Through four scenettes, Sartoro’s jewellery is placed at the heart of an editorial world where elegance, playfulness and contemporary fashion codes come together.",
+    "image": "/media/posters/sartoro-winter.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director & Photographer\nGuillaume Allantaz\nDOP\nJonathan Grimault",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film\nPhotography",
+        "more": false
+      }
+    ],
+    "summary": "Entirely created in studio, the campaign embraces the artifice of its sets rather than hiding it. Each scene explores a different winter atmosphere while sharing a strong and cohesive visual language. Moving between wide shots revealing the full set and intimate details of the jewellery, the films play with scale, movement and unexpected camera perspectives. Somewhere between fashion editorial and behind the scenes, the campaign turns the studio itself into part of the storytelling, creating a bold and playful showcase for Sartoro’s pieces.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/sartoro2025_winter_02_15s_16-9.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/SARTORO_Winter6-1024x575.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/SARTORO_Winter2-1024x575.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/SARTORO_Winter4-1024x575.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/SARTORO_Winter3-1024x575.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/SARTORO_Winter1-1024x575.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/SARTORO_Winter5-1024x575.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "media",
+        "media": {
+          "kind": "image",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/SARTORO_Winter_Photos-1024x502.png"
+        }
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Art Director",
+            "name": "Valentine Gérard\n(Sartoro)"
+          },
+          {
+            "role": "Producer",
+            "name": "Pascal Girardin\nLauriane Fruleux"
+          },
+          {
+            "role": "Director",
+            "name": "Guillaume Allantaz"
+          },
+          {
+            "role": "DOP",
+            "name": "Jonathan Grimault"
+          },
+          {
+            "role": "1st AC",
+            "name": "Nora Boissenot"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Sylvain Lugrin"
+          },
+          {
+            "role": "Photographer",
+            "name": "Guillaume Allantaz"
+          },
+          {
+            "role": "Photo assistant",
+            "name": "Santiago Martinez Benedetti"
+          },
+          {
+            "role": "Set Design",
+            "name": "Tadamachine"
+          },
+          {
+            "role": "Stylist",
+            "name": "Melane"
+          },
+          {
+            "role": "MUAH",
+            "name": "Daniela Isabella Valenzi"
+          },
+          {
+            "role": "Studio",
+            "name": "Studio Images Geneve"
+          },
+          {
+            "role": "Talent",
+            "name": "Jade"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Post Production Coordinator",
+            "name": "Marcelline Gamma"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "Lead VFX",
+            "name": "Bérénice Rogazy"
+          },
+          {
+            "role": "VFX artist",
+            "name": "Bérénice Rogazy\nVera Falkenberg\nIsabelle Himmelberger\nTim Thevoz"
+          },
+          {
+            "role": "Colorist",
+            "name": "Stephane Ma"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Sound Design & mix",
+            "name": "Jean Loup Bernet"
+          },
+          {
+            "role": "Photography Editing",
+            "name": "Barbara Haemmig de Preux"
+          },
+          {
+            "role": "",
+            "name": ""
+          }
+        ]
+      }
+    ]
+  },
+  "test-1-portail-des-nations": {
+    "title": "PORTAIL DES NATIONS",
+    "description": "The world has been shaped here for decades. Now, for the first time, you can experience it from the inside.",
+    "image": "/media/posters/test-1-portail-des-nations.jpg",
+    "back": "/projects/?category_name=experience-design",
+    "backLabel": "All experience design projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Cinetic Creatives",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Experience Design",
+        "more": false
+      }
+    ],
+    "summary": "At the heart of the Portail des Nations in Geneva, we have created a groundbreaking immersive experience dedicated to multilateralism. Through interactive installations and sensory storytelling, visitors step into the inner workings of international diplomacy. Its stakes, its actors, its defining moments. An invitation to feel how nations listen, negotiate, and together build the rules that govern our world.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_20260609_PDN_TEASER_2026_V06.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/TEST1_PDN_STILLS_0004_18-portail-des-nations_6a2670fabde56-scaled-1-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/8-1-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/TEST1_PDN_STILLS_0002_csm_Portail-Nations-immersion_fc20611bdc-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/TEST1_PDN_STILLS_0000_Header_Portail-Nations-2-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/TEST1_PDN_STILLS_0001_experience_immersive_ONU-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/6-1-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/447A8783-1024x683.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/3-1-1024x576.jpg"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/10/5-1-1024x576.jpg"
+          }
+        ]
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Executive Production",
+            "name": "Downtown Studio Genève"
+          },
+          {
+            "role": "Creative Direction",
+            "name": "Downtown Studio Genève\nLocal Projects\nDorier"
+          },
+          {
+            "role": "Content Production",
+            "name": "Cinetic Creatives"
+          },
+          {
+            "role": "On Site Lighting & Sound Design",
+            "name": "Chromatik\nThe Audio Agency"
+          },
+          {
+            "role": "Technical Partners",
+            "name": "Dorier\nElectrosonic\nEuropexpo\nLumens 8\nBaudin"
+          },
+          {
+            "role": "Pascal Tea",
+            "name": "Executive Producer"
+          },
+          {
+            "role": "Creative Director",
+            "name": "Olivier Pictet"
+          },
+          {
+            "role": "Director",
+            "name": "Adrien Wagner"
+          },
+          {
+            "role": "Narrative Designer",
+            "name": "Guillaume Helleu"
+          },
+          {
+            "role": "Project Director",
+            "name": "Rajinder Sagoo"
+          },
+          {
+            "role": "Production Director",
+            "name": "Céline Brandicourt"
+          },
+          {
+            "role": "Production Manager",
+            "name": "Caroline Bronsard"
+          },
+          {
+            "role": "Media Producer",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Technical Director",
+            "name": "Charles Exbrayat"
+          }
+        ]
+      }
+    ]
+  },
+  "vacheron-constantin-patrimony-22": {
+    "title": "VACHERON CONSTANTIN – PATRIMONY",
+    "description": "A film for the Patrimony, Vacheron Constantin’s purest expression of restraint. Soft light, slow movement, and nothing more than line and proportion, exactly the way the collection has always been designed.",
+    "image": "/media/posters/vacheron-constantin-patrimony-22.jpg",
+    "back": "/projects/?category_name=advertising",
+    "backLabel": "All advertising projects",
+    "info": [
+      {
+        "label": "CREDITS",
+        "text": "Director\nGuillaume Allantaz\nDOP\nJonathan Grimault",
+        "more": true
+      },
+      {
+        "label": "CATEGORY",
+        "text": "Film",
+        "more": false
+      }
+    ],
+    "summary": "Making something look this simple is the hardest thing of all. We filmed the Patrimony the way Vacheron Constantin conceives it, a calm palette, a single graceful gesture, and a watch that needs nothing added. One of not many.",
+    "sections": [
+      {
+        "kind": "media",
+        "media": {
+          "kind": "video",
+          "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/vacheron_constantin_-_one_of_not_many-1080p.mp4",
+          "poster": "",
+          "loop": true,
+          "auto": true,
+          "controls": true
+        }
+      },
+      {
+        "kind": "grid",
+        "items": [
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/1.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/9.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/8.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/6.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/5.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/4.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/7.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/2.png"
+          },
+          {
+            "kind": "image",
+            "src": "https://cinetic-creatives.com/wp-content/uploads/2026/06/3.png"
+          }
+        ]
+      },
+      {
+        "kind": "credits",
+        "items": [
+          {
+            "role": "Executive Producer",
+            "name": "Anne-Cécile Vallenet"
+          },
+          {
+            "role": "Producer",
+            "name": "Pascal Girardin"
+          },
+          {
+            "role": "Production Assistant",
+            "name": "Leo De Broc"
+          },
+          {
+            "role": "Director",
+            "name": "Guillaume Allantaz"
+          },
+          {
+            "role": "DOP",
+            "name": "Jonathan Grimault"
+          },
+          {
+            "role": "1st AC",
+            "name": "Aurel Ganz"
+          },
+          {
+            "role": "Gaffer",
+            "name": "Romain Schar"
+          },
+          {
+            "role": "Best boy",
+            "name": "Sylvain Lugrin"
+          },
+          {
+            "role": "Stylist",
+            "name": "Sara Sandmeier"
+          },
+          {
+            "role": "HMC",
+            "name": "Daniela Isabella Valenzi"
+          },
+          {
+            "role": "Stylist",
+            "name": "Sara Sandmeier"
+          },
+          {
+            "role": "Talent",
+            "name": "Alizee Sourbé"
+          },
+          {
+            "role": "Studio",
+            "name": "The Cube"
+          },
+          {
+            "role": "Head of Post Production",
+            "name": "Benjamin Dubuc"
+          },
+          {
+            "role": "Editor",
+            "name": "Sebastian Bouet"
+          },
+          {
+            "role": "VFX artist",
+            "name": "Bérénice Rogazy\nVera Falkenberg\nIsabelle Matteo\nTim Thévoz"
+          },
+          {
+            "role": "Colorist",
+            "name": "Vincent Ricci"
+          },
+          {
+            "role": "Music",
+            "name": "Jean Loup Bernet"
+          }
+        ]
+      },
+      {
+        "kind": "related",
+        "items": [
+          {
+            "title": "EBEL – SPORT CLASSIC 115TH",
+            "description": "A film marking 115 years of Ebel, built around the Sport Classic. Shot in light-filled architectural interiors, it lets the maison’s signature wave bracelet move quietly through a world of timeless elegance.",
+            "href": "/ebel-sport-classic-115th/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_EBEL_115TH_STILLS_0004_Capture-decran-2026-05-29-a-11.27.21-768x584.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_EBEL-Eudes_Damien_pxy.mp4"
+          },
+          {
+            "title": "JAEGER LECOULTRE – HOLIDAY REVERSO 23",
+            "description": "Inspired by three floral creations imagined by Brendi Wedinger and rooted in the landscapes of the Vallée de Joux, the campaign brings together product, craftsmanship and worn moments within one continuous visual language.",
+            "href": "/jaeger-lecoultre-holiday-reverso-23/",
+            "image": "https://cinetic-creatives.com/wp-content/uploads/2026/09/JLC_HOLIDAYS_REVERSO_23_STILL_COVER-768x432.jpg",
+            "video": "https://cinetic-creatives.com/wp-content/uploads/2026/06/CC_WEB_JAEGER-LECOULTRE_Holidays-campaign_pxy.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "la-chimere": {
+    "title": "LA CHIMÈRE",
+    "empty": true
+  }
+}
